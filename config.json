@@ -1,0 +1,6 @@
+{
+    "portalUrl": "http://mysoftwhere.maps.arcgis.com",
+    "publicContent": {
+        "query": "(group:c755678be14e4a0984af36a15f5b643e OR  group:b8787a74b4d74f7fb9b8fac918735153) AND access:public"
+    }
+}
