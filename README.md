@@ -38,6 +38,9 @@ To add this widget to your ArcGIS WebApp Builder,
 
 * download the zip file of the widget
 * unzip the contents into client\stemapp\widgets\ChangeWebMap directory
+
+![Install Folder](./help/InstallFolder.png)
+
 * edit the \client\stemapp\config.json and enter the ChangeWebMap widget in the widgets entry
 
 Example:
